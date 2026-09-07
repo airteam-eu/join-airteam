@@ -47,7 +47,7 @@ The three URLs in task 01 are fixed. Do not swap them.
 
 ## On the video
 
-Talk us through the three URLs (or the table, or two junk rows and one real one — whichever pair you submitted). Say the conversion out loud. Show the prompt firing if you used one. We are listening for the call, not for which editor you opened.
+Talk us through the three URLs (or the table, or two junk rows and one real one — whichever pair you submitted). Say the conversion out loud. Show the prompt firing if you used one. We are listening for the decision, not for which editor you opened.
 
 ## We will notice
 
