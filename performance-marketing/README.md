@@ -53,7 +53,7 @@ Talk us through the three URLs (or the table, or two junk rows and one real one 
 
 - Shop ROAS and install CPL never share a campaign goal.
 - Install language is upgrade / certified / Part-145 — not “buy a cockpit.”
-- Negatives a hangar person would add: Bose QuietComfort, car GPS, Garmin watches, cabin-crew jobs.
+- You block search terms that look related but are the wrong customer: consumer Bose headphones (QuietComfort), car GPS, Garmin sports watches, airline cabin-crew jobs.
 - A junk contact is ignored, not “nurtured because we have the email.”
 
 ## Write to us
