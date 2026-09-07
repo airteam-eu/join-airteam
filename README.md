@@ -1,21 +1,20 @@
 # Join AIR TEAM
 
-Practical take-home briefs for open roles. Pick the folder for the role you applied for — you do not need the rest of the repo.
+Take-home work for people joining the crew. Open the folder for the role you applied to.
 
 **YOUR MISSION. OUR TECHNOLOGY.**
 
-AIR TEAM is an aviation group in Veverská Bítýška, Czech Republic. We sell parts and pilot gear, install and maintain avionics (EASA Part-145 in Kunovice, Part 21J / 21G), and take on government and ISR work.
+AIR TEAM is an aviation group in Veverská Bítýška, Czech Republic: parts and an e-shop, certified avionics work (EASA Part-145 in Kunovice, Part 21J / 21G), and government / ISR projects.
 
-## Roles
+## Open briefs
 
-| Role | Brief |
+| Role | Folder |
 |------|--------|
 | Performance Marketing Specialist | [performance-marketing/](./performance-marketing/) |
 
-## How to submit
+## Sending it in
 
-1. Open the folder for your role and follow that README.
-2. Email **lucie.kysucanova@airteam.eu**, subject: `Join AIR TEAM — [your name]`. A GitHub repo, a Google Drive folder, or a zip is enough — in the email, a link to the work and a link to the video. A polished repo is optional. Prompts and a messy output folder are fine.
+Follow the README in your role folder. Then email **lucie.kysucanova@airteam.eu**, subject `Join AIR TEAM — [your name]`. A GitHub repo, a Google Drive folder, or a zip is enough — in the email, a link to the work and a link to the video.
 
 ## Public group websites
 
@@ -28,7 +27,7 @@ Use the live sites. Do not guess budgets, account IDs, or CRM numbers.
 | AIR TEAM intel, s.r.o. (ATI) | Government, defence, ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
 | Bose headset repairs | Warranty and out-of-warranty repairs | [bose.airteam.eu](https://bose.airteam.eu/) |
 
-## Questions
+## Stuck?
 
 lucie.kysucanova@airteam.eu
 
