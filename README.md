@@ -56,10 +56,7 @@ Můžete (a máte) se opřít o všechny veřejné weby holdingu — nejen e-sho
 | AIR TEAM service, s.r.o. (ATS) | Údržba, opravy, zástavby avioniky | [service.airteam.eu](https://service.airteam.eu/en/) |
 | AIR TEAM intel, s.r.o. (ATI) | Projekty pro vládu, obranu a ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
 
-K tomu ještě:
-
-- [hr.airteam.eu](https://hr.airteam.eu/) — kariéra (ne produkt)
-- [bose.airteam.eu](https://bose.airteam.eu/) — opravy sluchátek Bose
+K tomu ještě [bose.airteam.eu](https://bose.airteam.eu/) — opravy sluchátek Bose.
 
 Nehádejte interní rozpočty, účty ani čísla z CRM. Co není na těchto webech, nechte být.
 
