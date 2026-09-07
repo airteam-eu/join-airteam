@@ -35,15 +35,7 @@ If you like CRM more than tags, do **01 + 03**. If you like tracking, **01 + 02*
 
 ## Video
 
-One recording, around 8 minutes:
-
-- **Loom**, or
-- **Google Meet** (record even if you are alone), or
-- a video file on **Google Drive**
-
-If we walk through the work together on Meet, we record internally. You do not need to install anything extra.
-
-In the video:
+One video, around 8 minutes, covering both pieces you submit:
 
 - Why that conversion, and who should own the lead
 - Walk through your prompt or script (paste an input, show the output)
