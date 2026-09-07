@@ -1,0 +1,6 @@
+.DS_Store
+*.mp4
+*.mov
+.env
+credentials.json
+node_modules/
