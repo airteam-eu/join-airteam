@@ -1,22 +1,27 @@
 # Performance Marketing Specialist
 
-AIR TEAM sells boxed avionics and headsets from Veverská Bítýška, and AIR TEAM Service certifies upgrades in Kunovice. Same albatross on the tail. Two P&Ls. If Google treats a GTN Xi install enquiry like a headset checkout, the crew pays for it.
+AIR TEAM is an aviation company in Veverská Bítýška, Czech Republic. We have two customer-facing businesses that must not be mixed in advertising:
 
-This seat reports **directly to Marketing Manager Pavlína**. You run **paid search (PPC)** and **what happens after the click in HubSpot**: score the contact, put it in a category, hand it over with a next step — including when the deal does not close.
+1. **The shop** ([airteam.eu](https://www.airteam.eu)) — boxed avionics and pilot gear. A customer can buy, for example, a Bose aviation headset and check out.
+2. **The service workshop** ([airteam.services](https://airteam.services/) / [service.airteam.eu](https://service.airteam.eu/en/)) — in Kunovice we install and certify avionics in the aircraft (EASA Part-145). That is a quote and a project, not an add-to-cart.
 
-Live sites for the group: [root README](../README.md#public-group-websites).
+If Google Ads treats an install request like a headset purchase, we waste budget and sales get the wrong people.
 
-## Who you sit with
+**You report directly to Marketing Manager Pavlína.** She sets marketing priorities, brand language, and the budget frame. You run the Google Ads accounts and the HubSpot work **after someone clicks**: you score the contact, put them in a category, and pass them to sales with a suggested next step — including when they did not buy.
 
-| Who | They decide | You bring |
-|-----|-------------|-----------|
-| **Pavlína** | Priorities, tone, budget frame | Campaigns, HubSpot demand work, a number and a recommendation |
-| **Sales** | The conversation and the close | A scored enquiry they can pick up; rules you wrote with them; their “good / bad lead” notes back into Ads |
-| **Product Manager** | What the product actually is | Pilot vs partner offer, the next SKU or the next service, written so a campaign can carry it |
-| **Customer Support** | Tickets and repairs | Those contacts stay out of the sales pile |
-| **IT / web** | Shop, tags, plumbing | A clear ask for a landing page or a conversion — you do not run the websites |
+Live sites for the whole group: [root README](../README.md#public-group-websites).
 
-A headset on [airteam.eu](https://www.airteam.eu) is often a cart. A panel upgrade on [airteam.services](https://airteam.services/) is a quote for Part-145 work. Product will tell you why. Sales will tell you which form fills they will actually call. You keep those two streams apart in Ads, in GA4, and in HubSpot.
+## Who you work with
+
+| Person / team | Their job | Your job with them |
+|---------------|-----------|-------------------|
+| **Marketing Manager Pavlína** | What we say as a brand, what we spend, what comes first | You run PPC and HubSpot; you bring numbers and a recommendation |
+| **Sales** | Talk to the customer and close the deal | You send a scored enquiry they can pick up; you agree scoring rules with them; you put their “good / bad lead” feedback back into Ads |
+| **Product Manager** | What we sell and why it fits a given aircraft or customer | You turn that into campaigns and “what to offer next” (private pilot vs repair shop / airline) |
+| **Customer Support** | Repairs, “it broke”, tickets — not a sale | You keep those contacts out of the sales list |
+| **IT / web** | The shop, tracking tags, technical setup | You ask for landing pages and conversion tracking; you do not run the websites |
+
+A headset on the shop is often a purchase. A cockpit upgrade is a request for certified work. Product explains the difference. Sales tells you which form fills they will actually call. You keep those two paths separate in Google Ads, GA4, and HubSpot.
 
 ## The brief
 
