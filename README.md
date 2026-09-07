@@ -15,10 +15,7 @@ AIR TEAM is an aviation group in Veverská Bítýška, Czech Republic. We sell p
 ## How to submit
 
 1. Open the folder for your role and follow that README.
-2. Email **lucie.kysucanova@airteam.eu**, subject: `Join AIR TEAM — [your name]`.
-3. Send a GitHub repo, a Google Drive folder, or a zip — whatever is easiest. In the email, a link to the work and a link to the video is enough.
-
-A polished repo is optional. Prompts and a messy output folder are fine.
+2. Email **lucie.kysucanova@airteam.eu**, subject: `Join AIR TEAM — [your name]`. A GitHub repo, a Google Drive folder, or a zip is enough — in the email, a link to the work and a link to the video. A polished repo is optional. Prompts and a messy output folder are fine.
 
 ## Public group websites
 
