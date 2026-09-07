@@ -10,7 +10,7 @@ This job exists so the right customer gets the right offer at the right moment �
 
 You own **paid search (PPC)** and **what happens after the click in HubSpot**: scoring, categories, handoff rules, and a next step when the deal does not close. You are not here to maximise cheap clicks. You are here to bring demand that sales will actually work, for two different worlds: **private pilots / GA** (often a shop purchase) and **partners / MRO** (often a quote for certified install or parts).
 
-You report directly to Marketing Manager Pavlína (brand and messaging stay with her). You are not a salesperson (you do not close deals). You are not the Product Manager (you do not own the catalogue). You turn product truth and sales feedback into campaigns, measurement, and a clean handoff.
+You report directly to Marketing Manager Pavlína (brand and messaging stay with her). You work with **sales** on qualified enquiries, scoring, and a handoff they can take into the deal. You work with the **Product Manager** on what is true about the product and what to offer next (pilot vs partner) — and you turn that into campaigns, measurement, and a clean handoff.
 
 ## How you work with other teams
 
