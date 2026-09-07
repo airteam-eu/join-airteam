@@ -1,41 +1,41 @@
-# Challenge 02: HubSpot — skóre, kategorie, co dál
+# Úkol 2 (povinný): HubSpot — skóre, kategorie, co dál
 
-**Typ:** systém · **Čas:** cca 45 minut
+**Čas:** zhruba 45 minut
 
 ## Kontext
 
-Poptávka z webu nebo PPC spadne do CRM. Obchod nemá čas hádat, jestli je to pilot, škola, nebo MRO. Když se obchod **neuzavře**, nesmí vzniknout černá díra — potřebujeme další krok podle typu zákazníka.
+Poptávka z webu nebo z reklamy spadne do CRM. Obchod nemá čas hádat, jestli je to pilot, škola, nebo servisní dílna. Když se obchod **neuzavře**, nesmí to zmizet v černé díře — potřebujeme další krok podle typu zákazníka.
 
-Ve firmě platí čisté předání: obchodník má vidět kontext, skóre a doporučený další krok. Nestavíte živý HubSpot portál.
+U nás platí čisté předání: obchodník má vidět kontext, skóre a doporučený další krok. Živý HubSpot nestavíte.
 
 ## Úkol
 
-Pracujte s **8 fiktivními leady** v [fixtures/leads.md](./fixtures/leads.md).
+Pracujte s **8 vymyšlenými kontakty** v [fixtures/leads.md](./fixtures/leads.md).
 
-Pro **každý** lead uveďte:
+U **každého** uveďte:
 
-- kategorii (např. GA / škola / partner-MRO / nejasný / mimo scope)
+- kategorii (např. soukromý pilot / škola / partner-MRO / nejasné / mimo náš byznys)
 - skóre 0–100 a **proč**
-- akci teď: **předat obchod** / **hold** / **nurture** / **předat jinam**
+- akci teď: **předat obchodu** / **počkat** / **dál pečovat v marketingu** / **předat jinam**
 
-Pak navrhněte **2 cesty** (ne deset e-mailů):
+Pak navrhněte **2 návaznosti** (ne deset e-mailů):
 
-- **A — GA / koncový:** poptávka byla, obchod se neuzavřel
+- **A — soukromý / koncový zákazník:** poptávka byla, obchod se neuzavřel
 - **B — partner / MRO:** totéž
 
-Každá cesta: trigger, max **3 kroky**, co nabídnout jako další (produkt vs. servis podle veřejného portfolia na [airteam.eu](https://www.airteam.eu)), kdy eskalovat na člověka.
+U každé: čím to spustíte, nanejvýš **3 kroky**, co nabídnout dál (produkt vs. servis podle veřejné nabídky na [airteam.eu](https://www.airteam.eu)), kdy to předat člověku.
 
-## Deliverables
+## Co odevzdat
 
 Do `output/`:
 
 | Soubor | Obsah |
 |--------|--------|
-| `scoring.md` | Tabulka všech 8 leadů |
-| `journeys.md` | Cesta A a cesta B |
+| `scoring.md` | Tabulka všech 8 kontaktů |
+| `journeys.md` | Návaznost A a návaznost B |
 | `sales-handoff.md` | Co přesně uvidí obchodník (kontext, skóre, doporučený krok) |
 
-Pravidla pište tak, aby šla později zapsat do HubSpotu (listy, skóre, workflow) — ne jako esej.
+Pravidla pište tak, aby šla později zapsat do HubSpotu (seznamy, skóre, workflow) — ne jako sloh.
 
 ## Co hledáme
 

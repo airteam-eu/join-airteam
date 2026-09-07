@@ -1,39 +1,39 @@
-# Challenge 01: PPC — poptávka, ne levný klik
+# Úkol 1 (povinný): PPC — poptávka, ne levný klik
 
-**Typ:** analytické · **Čas:** cca 45 minut
+**Čas:** zhruba 45 minut
 
 ## Kontext
 
-AIR TEAM v e-shopu a na webu přivádí poptávky na avioniku a vybavení kokpitu (Smart Supply). Stejné vyhledávací dotazy ale míří na **dva světy**:
+Z webu a e-shopu k nám chodí poptávky na avioniku a vybavení kokpitu (Smart Supply). Stejné vyhledávání ale míří na **dva světy**:
 
-- **GA / pilot** — často kratší rozhodování (headset, Garmin do malého stroje, e-shop)
-- **Partner / MRO** — delší rozhodování, opakované nákupy, servis a díly do provozu
+- **Soukromý pilot / GA** — kratší rozhodování (headset, Garmin do menšího stroje, e-shop)
+- **Partner / údržba (MRO)** — delší rozhodování, opakované nákupy, servis a díly do provozu
 
 Obchod potřebuje vědět, koho dostal. Levný klik, který nikdo nevezme, je ztráta.
 
-Část Search provozu je šum: spotřební Garmin (hodinky), nabídky práce u aerolinek, hračky / drony mimo náš sortiment. Viz [fixtures/noise-vs-intent.md](./fixtures/noise-vs-intent.md). Katalog: [airteam.eu](https://www.airteam.eu).
+Část provozu z vyhledávání je šum: sportovní Garmin (hodinky), nabídky práce u aerolinek, hračky a drony mimo náš sortiment. Podklady: [fixtures/noise-vs-intent.md](./fixtures/noise-vs-intent.md). Katalog: [airteam.eu](https://www.airteam.eu).
 
 ## Úkol
 
-Navrhněte **Google Ads Search** tak, aby cílem byla **kvalifikovaná poptávka**, kterou obchod vezme — ne maximum konverzí za každou cenu.
+Navrhněte **Google Ads ve vyhledávání** tak, aby cílem byla **poptávka, kterou obchod vezme** — ne maximum konverzí za každou cenu.
 
-1. **Struktura účtu** — kampaně a ad groups. Oddělte GA vs. partner tam, kde to dává smysl.
-2. **Měření** — jaké konverze sledujete, příklady UTM (`source`, `medium`, `campaign`, `content`), co je „dobrý lead“.
-3. **Šum** — co vyloučit (negativa, publika) a co posílit v prvním týdnu.
-4. **30 dní** — jedna priorita a jak poznáte, že to zabírá. Bez vymyšleného ROAS; stačí logika a kill kritéria.
+1. **Struktura účtu** — kampaně a skupiny reklam. Oddělte soukromé piloty a partnery tam, kde to dává smysl.
+2. **Měření** — jaké konverze sledujete, příklady UTM (`source`, `medium`, `campaign`, `content`), co je „dobrá poptávka“.
+3. **Šum** — co vyloučit (vylučující slova, publika) a co v prvním týdnu posílit.
+4. **První měsíc** — jedna priorita a jak poznáte, že to zabírá. Bez vymyšleného ROAS. Stačí logika a kdy byste kampaň vypnuli.
 
-Ostrý Google Ads účet nestavíte. Žádné fiktivní rozpočty v Kč, které „vypadají firemně“.
+Ostrý účet v Google Ads nestavíte. Nevymýšlejte rozpočty v korunách, aby to „vypadalo firemně“.
 
-## Deliverables
+## Co odevzdat
 
 Do `output/`:
 
 | Soubor | Obsah |
 |--------|--------|
-| `account-structure.md` | Strom kampaní / ad groups |
-| `measurement.md` | Konverze + UTM příklady |
-| `30-day-priority.md` | Jedna sázka + kdy to vypnout |
+| `account-structure.md` | Strom kampaní a skupin reklam |
+| `measurement.md` | Konverze a příklady UTM |
+| `30-day-priority.md` | Jedna sázka a kdy to vypnout |
 
 ## Co hledáme
 
-Kvalita poptávky a předání obchodu. Ne „snížíme CPC“.
+Kvalitu poptávky a čisté předání obchodu. Ne větu „snížíme cenu za klik“.

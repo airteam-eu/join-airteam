@@ -1,55 +1,54 @@
-# Join AIR TEAM — Performance Marketing Challenge
+# Join AIR TEAM — praktické zadání (výkonnostní marketing)
 
-AIR TEAM je letecký holding: díly a e-shop, servis a zástavby avioniky, integrace pro provoz. Komunikujeme jako posádka — fakta, čisté předání, výsledek, který obstojí v provozu.
+AIR TEAM je letecká skupina: díly a e-shop, servis a zástavby avioniky, integrace do provozu. Mluvíme věcně, jako posádka. Obchod má dostat použitelný další krok, ne hezkou kampaň bez kontextu.
 
 **YOUR MISSION. OUR TECHNOLOGY.**
 
-Toto zadání je pro roli **Performance Marketing Specialist**. Chceme vidět, jak přivedete poptávku, jak ji ohodnotíte a co se stane, když se obchod hned neuzavře. Zajímá nás **proces a opakovatelnost**, ne vyleštěný jednorázový výstup.
+Zadání je pro roli **Performance Marketing Specialist**. Chceme vidět, jak přivedete poptávku, jak ji roztřídíte a co uděláte, když se obchod hned neuzavře. Záleží na **postupu, který umíte zopakovat** — ne na jednom vyleštěném výstupu.
 
-## Jak to funguje
+## Jak na to
 
 1. Stáhněte toto repo (Code → Download ZIP, nebo clone).
-2. Splňte **všechny 3** úkoly. Počítejte cca **45 minut** na každý.
-3. Výstupy ukládejte do složek `output/` u každého úkolu (u úkolu 03 i `pipeline/`).
-4. Nahrajte **jedno** video **8–12 minut** (všechny tři úkoly najednou).
-5. Pošlete e-mail na **lucie.kysucanova@airteam.eu**, předmět: `Join AIR TEAM — [vaše jméno]`.
+2. Splňte **povinné úkoly 1 a 2**. Úkol 3 je **volitelný** — když ho přidáte, rádi se na něj podíváme.
+3. Na každý povinný úkol počítejte zhruba **45 minut**.
+4. Výstupy ukládejte do složky `output/` u daného úkolu (u úkolu 3 i do `pipeline/`).
+5. Nahrajte **jedno video** (viz níže).
+6. Pošlete e-mail na **lucie.kysucanova@airteam.eu**, předmět: `Join AIR TEAM — [vaše jméno]`.
 
-**Submit your work however you prefer — GitHub repo, Google Drive, zip, whatever works.**
-
-V těle e-mailu stačí odkaz na práci + odkaz na video.
+Práci můžete poslat jako GitHub repo, odkaz na Google Drive nebo zip — jak vám to vyhovuje. V e-mailu stačí odkaz na práci a odkaz na video.
 
 ## Úkoly
 
-| # | Úkol | Typ | Co testujeme |
-|---|------|-----|----------------|
-| 01 | [PPC: poptávka, ne levný klik](./01-ppc-demand-engine/) | Analytické | Struktura Search, měření, kvalita leadu pro obchod |
-| 02 | [HubSpot: skóre, kategorie, co dál](./02-hubspot-lead-system/) | Systém | Bodování, předání obchodu, cesta když se neuzavře |
-| 03 | [AI pipeline: varianty v tónu značky](./03-ai-creative-pipeline/) | Kreativní + AI | Opakovatelný generátor, ToV Hrdina, co by schválil marketing |
+| # | Úkol | Povinnost | O co nám jde |
+|---|------|-----------|--------------|
+| 01 | [PPC: poptávka, ne levný klik](./01-ppc-demand-engine/) | **povinný** | Struktura vyhledávání, měření, kvalita poptávky pro obchod |
+| 02 | [HubSpot: skóre, kategorie, co dál](./02-hubspot-lead-system/) | **povinný** | Jak poptávku ohodnotit, komu ji předat, co když se neuzavře |
+| 03 | [AI: texty v tónu značky, které umíte spustit znovu](./03-ai-creative-pipeline/) | **volitelný** | Opakovatelný postup, tón Hrdina, co by marketing ještě nepustil ven |
 
 ## Video
 
-Jedna nahrávka, 8–12 min:
+Jedna nahrávka, **zhruba 8 minut**. Když odevzdáváte i úkol 3, klidně do **12 minut**.
 
-- **Google Meet** — nahrávka (i sami sobě), nebo
-- **Google Drive** — nahrát video soubor
+- **Google Meet** — nahrávka (i když jste sami), nebo
+- **Google Drive** — nahrát video jako soubor
 
-Když walkthrough děláte s námi na Meet, nahráváme interně ve Fathom. Nic z toho nemusíte instalovat.
+Když si práci projdete s námi na Meetu, nahráváme interně. Nic dalšího instalovat nemusíte.
 
-Osnova videa:
+Ve videu stačí:
 
-1. PPC — proč tahle struktura a co je špatný lead
-2. HubSpot — jeden lead k předání vs. jeden do nurture
-3. AI — spusťte generátor (klidně ChatGPT) a řekněte, co by Marketing Manager stopnul
+1. PPC — proč tahle struktura a co je špatná poptávka
+2. HubSpot — jeden kontakt k předání obchodu a jeden, který byste zatím nechali v marketingu
+3. (jen u úkolu 3) — spusťte generátor (klidně ChatGPT) a řekněte, co by Marketing Manager zastavil
 
 ## Nástroje
 
-Použijte, co vám sedí, včetně AI. Chceme vidět **systém** (prompt, pravidla, jak to spustíte příští týden), ne jeden hezký text.
+Použijte, co vám sedí, včetně AI. Chceme vidět **systém**: pravidla, prompt, jak to spustíte znovu příští týden. Ne jeden hezký text.
 
-Ve firmě schvaluje citlivou copy **Marketing Manager**. U vás stačí návrh + krátká poznámka, co byste eskalovali.
+Citlivé texty u nás schvaluje **Marketing Manager**. Od vás stačí návrh a krátká poznámka, co byste ještě poslali ke kontrole.
 
 ## Veřejné podklady
 
-Stavte na [airteam.eu](https://www.airteam.eu). Nehádejte interní rozpočty, účty ani CRM ID.
+Opírejte se o [airteam.eu](https://www.airteam.eu). Nehádejte interní rozpočty, účty ani čísla z CRM.
 
 ## Otázky
 
@@ -57,4 +56,4 @@ lucie.kysucanova@airteam.eu
 
 ---
 
-*AIR TEAM. Built by people who fly, fix, and ship — and who expect marketing to hand sales a usable next step.*
+*AIR TEAM. Stavíme to lidé, kteří létají, opravují a dodávají — a od marketingu čekají, že obchodu předá použitelný další krok.*

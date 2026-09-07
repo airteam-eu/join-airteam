@@ -1,38 +1,39 @@
-# Challenge 03: AI pipeline — varianty v tónu značky
+# Úkol 3 (volitelný): AI — texty v tónu značky, které umíte spustit znovu
 
-**Typ:** kreativní + AI-first · **Čas:** cca 45 minut
+**Čas:** zhruba 45 minut  
+Tento úkol **nemusíte** dělat. Když ho odevzdáte, díváme se na vkus a na to, jestli postup umíte použít i na jiný produkt.
 
 ## Kontext
 
-AIR TEAM mluví jako **Hrdina / posádka**: věcně, bez korporátního slopu. Zákazník je hrdina příběhu, ne my. Vzor věty: **situace → akce → výsledek**. Hook není obecná pravda o firmě („spolehlivé řešení na míru“).
+AIR TEAM mluví jako **Hrdina / posádka**: věcně, bez korporátní vaty. Zákazník je hrdina příběhu, ne my. Vzor věty: **situace → akce → výsledek**. Úvodní věta není obecná pravda o firmě („spolehlivé řešení na míru“).
 
-Citlivou copy ve firmě schvaluje **Marketing Manager**. Vy dodáte návrh a označíte riziko.
+Citlivé texty u nás schvaluje **Marketing Manager**. Vy dodáte návrh a označíte, co je rizikové.
 
-Chceme **opakovatelný** postup (OHIO): příští týden jiný produkt, stejný stroj.
+Chceme **postup, který půjde spustit znovu**: příští týden jiný produkt, stejný stroj.
 
 ## Úkol
 
 Postavte generátor — prompt, Cursor skill, nebo krátký skript. Vstup:
 
-- typ zákazníka (GA / partner-MRO)
+- typ zákazníka (soukromý pilot / partner-MRO)
 - fáze (první kontakt / obchod se neuzavřel)
 - **jeden** veřejný produkt nebo kategorie z [airteam.eu](https://www.airteam.eu)
 
 Výstup:
 
-1. **3 varianty** search reklam (RSA headlines / descriptions) **nebo** Meta primary text — vyberte **jeden** kanál a držte jeho limity.
-2. **3 follow-up e-maily:** předmět, preheader, krátké jádro (situace → akce → výsledek).
+1. **3 varianty** reklam ve vyhledávání (titulky a popisy) **nebo** hlavního textu na Meta — vyberte **jeden** kanál a držte jeho limity.
+2. **3 navazující e-maily:** předmět, náhledový text, krátké jádro (situace → akce → výsledek).
 
-U každé varianty napište, **co testujete** (hook, CTA, důkaz). Jedna věta navíc: co byste poslali MM ke schválení vs. co může jít do A/B s nižším brand rizikem.
+U každé varianty napište, **co testujete** (úvod, výzva k akci, důkaz). Jedna věta navíc: co byste ještě poslali Marketing Managerovi ke schválení a co může jít do A/B testu s menším rizikem pro značku.
 
-## Deliverables
+## Co odevzdat
 
-| Cesta | Obsah |
-|-------|--------|
+| Kam | Obsah |
+|-----|--------|
 | `pipeline/` | Prompt, skill, nebo skript — to, čím to spustíte znovu |
-| `output/variants.md` | 6 kousků (3 ads + 3 e-maily) + testovací proměnná |
-| `output/how-i-reuse.md` | Jak to spustíte příští týden na jiný produkt |
+| `output/variants.md` | 6 kousků (3 reklamy + 3 e-maily) + co u každé testujete |
+| `output/how-i-reuse.md` | Jak to příští týden spustíte na jiný produkt |
 
 ## Co hledáme
 
-Systém + vkus. Ne šest ručně vyleštěných tagline bez návodu, jak vznikly.
+Systém a vkus. Ne šest ručně vyleštěných sloganů bez návodu, jak vznikly.

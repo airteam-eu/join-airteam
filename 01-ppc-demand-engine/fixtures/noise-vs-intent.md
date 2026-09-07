@@ -1,29 +1,29 @@
-# Fixtures — intent vs. šum (fiktivní queries)
+# Podklady — zájem vs. šum (vymyšlené dotazy)
 
-Použijte jako vstup pro negativa a strukturu. Nejsou to reálná data z účtu.
+Použijte jako vstup pro vylučující slova a strukturu. Nejsou to reálná data z účtu.
 
-## Spíš intent (letectví / náš sortiment)
+## Spíš reálný zájem (letectví / náš sortiment)
 
-| Query | Proč |
+| Dotaz | Proč |
 |-------|------|
 | garmin g5 czech | Avionika, nákup / poptávka |
-| garmin g5 cessna | GA instalace |
-| headset anr pilot shop | Pilot, e-shop intent |
-| bose a20 koupit | Koncový zákazník, produkt |
-| garmin gtn 650 xi | Avionika, vyšší ticket |
-| letecké přístroje garmin dealer | Dealer / partner směr |
+| garmin g5 cessna | Zástavba do GA |
+| headset anr pilot shop | Pilot, e-shop |
+| bose a20 koupit | Koncový zákazník, konkrétní produkt |
+| garmin gtn 650 xi | Avionika, vyšší hodnota |
+| letecké přístroje garmin dealer | Směr dealer / partner |
 | náhradní díly avionika mro | Partner / údržba |
 
-## Spíš šum (nekvalifikovaný provoz)
+## Spíš šum (provoz, který nechceme)
 
-| Query | Proč |
+| Dotaz | Proč |
 |-------|------|
 | garmin forerunner sleva | Sportovní hodinky |
-| garmin watch czech | Mimoletecký produkt |
-| letecká společnost práce kabina | Job intent |
-| cabin crew jobs prague | Job intent |
+| garmin watch czech | Produkt mimo letectví |
+| letecká společnost práce kabina | Hledá práci |
+| cabin crew jobs prague | Hledá práci |
 | drone dji toy | Mimo sortiment |
-| rc letadlo levně | Hobby mimo B2B/GA avioniku |
-| google ads kurz | Nákup školení marketingu, ne produktu |
+| rc letadlo levně | Hobby mimo avioniku pro GA / B2B |
+| google ads kurz | Chce školení marketingu, ne produkt |
 
-Doplňte vlastní negativa, pokud vidíte další past.
+Doplňte vlastní vylučující slova, pokud vidíte další past.
