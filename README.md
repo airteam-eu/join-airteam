@@ -27,7 +27,7 @@ Use the live sites. Do not guess budgets, account IDs, or CRM numbers.
 | AIR TEAM intel, s.r.o. (ATI) | Government, defence, ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
 | Bose headset repairs | Warranty and out-of-warranty repairs | [bose.airteam.eu](https://bose.airteam.eu/) |
 
-## Stuck?
+## Write to us
 
 lucie.kysucanova@airteam.eu
 

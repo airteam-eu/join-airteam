@@ -56,6 +56,6 @@ Talk us through the three URLs (or the table, or two junk rows and one real one 
 - Negatives a hangar person would add: Bose QuietComfort, car GPS, Garmin watches, cabin-crew jobs.
 - A junk contact is ignored, not “nurtured because we have the email.”
 
-## Stuck?
+## Write to us
 
 lucie.kysucanova@airteam.eu
