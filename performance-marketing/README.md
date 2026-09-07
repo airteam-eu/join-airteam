@@ -2,7 +2,7 @@
 
 AIR TEAM sells boxed avionics and headsets from Veverská Bítýška, and AIR TEAM Service certifies upgrades in Kunovice. Same albatross on the tail. Two P&Ls. If Google treats a GTN Xi install enquiry like a headset checkout, the crew pays for it.
 
-This seat reports **directly to Marketing Manager Pavlína** (she keeps brand and messaging). You run **paid search (PPC)** and **what happens after the click in HubSpot**: score the contact, put it in a category, hand it over with a next step — including when the deal does not close.
+This seat reports **directly to Marketing Manager Pavlína**. You run **paid search (PPC)** and **what happens after the click in HubSpot**: score the contact, put it in a category, hand it over with a next step — including when the deal does not close.
 
 Live sites for the group: [root README](../README.md#public-group-websites).
 
