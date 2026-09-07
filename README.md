@@ -18,7 +18,7 @@ Shop revenue and certified-install leads are different businesses. Mixing them i
 2. **Challenge 01 is mandatory.** Then pick **02 or 03**.
 3. Plan about **90 minutes** per challenge.
 4. Put work in the `output/` (and `pipeline/` or `system/`) folders for each challenge.
-5. Record **one video, around 8 minutes**, covering both pieces you submit.
+5. Record **one video, 5–10 minutes**, covering both pieces you submit.
 6. Email **lucie.kysucanova@airteam.eu**, subject: `Join AIR TEAM — [your name]`.
 
 Send a GitHub repo, a Google Drive folder, or a zip — whatever is easiest. In the email, a link to the work and a link to the video is enough. A polished repo is optional. Prompts and a messy output folder are fine.
@@ -35,7 +35,7 @@ If you like CRM more than tags, do **01 + 03**. If you like tracking, **01 + 02*
 
 ## Video
 
-One video, around 8 minutes, covering both pieces you submit:
+One video, **5–10 minutes**, covering both pieces you submit:
 
 - Why that conversion, and who should own the lead
 - Walk through your prompt or script (paste an input, show the output)
