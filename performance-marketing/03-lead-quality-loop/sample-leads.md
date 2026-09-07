@@ -5,14 +5,14 @@ Fake rows. No real customers. Same data as `sample-leads.csv`.
 | id | channel | landing_page | raw_message | country |
 |----|---------|--------------|-------------|---------|
 | L01 | google_cpc | https://www.airteam.eu/p/bose-a30-headset-anr | Paid and checked out A30 GA plug. Order thank-you page. | CZ |
-| L02 | google_cpc | https://airteam.services/professional-avionics-upgrade-and-installation/ | Cessna 172S 2004. Want GTN 650Xi instead of 430W. Based LKTB. When can you slot us? | CZ |
+| L02 | google_cpc | https://service.airteam.eu/en/glass-cockpit | Cessna 172S 2004. Want GTN 650Xi instead of 430W. Based LKTB. When can you slot us? | CZ |
 | L03 | google_cpc | https://www.airteam.eu/p/gdu-116b | Need 116B for RV-10 build. Experimental. Ship to DE. No install. | DE |
-| L04 | google_cpc | https://airteam.services/professional-avionics-upgrade-and-installation/ | King Air 350 panel. Airline CAMO. Need NXi path and downtime window Q4. RFQ attached next week. | PL |
+| L04 | google_cpc | https://service.airteam.eu/en/glass-cockpit | King Air 350 panel. Airline CAMO. Need NXi path and downtime window Q4. RFQ attached next week. | PL |
 | L05 | website_form | https://www.airteam.eu | My Bose A20 died mid-radio. Can you repair the cable and mic? Serial on the photo. | AT |
 | L06 | google_cpc | https://www.airteam.eu/p/bose-a30-headset-anr | Cheapest bose quietcomfort for my commute please coupon | CZ |
-| L07 | google_cpc | https://airteam.services/professional-avionics-upgrade-and-installation/ | G3X is blank after battery change. Error codes in the photo. Need troubleshooting not a sales quote. | SK |
-| L08 | google_cpc | https://airteam.services/professional-avionics-upgrade-and-installation/ | Flight school fleet 6x PA-28. Looking at GTN Xi + G5. Training ops. Who do we talk to? | CZ |
+| L07 | google_cpc | https://service.airteam.eu/en/glass-cockpit | G3X is blank after battery change. Error codes in the photo. Need troubleshooting not a sales quote. | SK |
+| L08 | google_cpc | https://service.airteam.eu/en/glass-cockpit | Flight school fleet 6x PA-28. Looking at GTN Xi + G5. Training ops. Who do we talk to? | CZ |
 | L09 | google_cpc | https://www.airteam.eu/p/gdu-116b | Citation CJ3 G700 TXi. We are the operator CAMO. Install + dual-install kit + EASA paperwork. | FR |
 | L10 | organic | https://www.airteam.eu | Hi I sell SEO backlinks cheap. 50 euro package. WhatsApp me. | IN |
-| L11 | google_cpc | https://airteam.services/professional-avionics-upgrade-and-installation/ | Quoted last year for G500 TXi on our Bonanza. Did not proceed. Still flying steam. Maybe later. | CZ |
+| L11 | google_cpc | https://service.airteam.eu/en/glass-cockpit | Quoted last year for G500 TXi on our Bonanza. Did not proceed. Still flying steam. Maybe later. | CZ |
 | L12 | google_cpc | https://www.airteam.eu | Need a Garmin D2 watch and a random ANR headset as gifts. Checkout failed. | CZ |

@@ -4,7 +4,7 @@
 
 ## Context
 
-Shop traffic lands on [airteam.eu](https://www.airteam.eu). Upgrade traffic lands on [airteam.services](https://airteam.services/professional-avionics-upgrade-and-installation/) (same operation as [service.airteam.eu](https://service.airteam.eu/en/)). If Google Ads only has a Purchase conversion, Search for Kunovice installs will optimise for headset checkouts.
+Shop traffic lands on [airteam.eu](https://www.airteam.eu). Upgrade traffic lands on [Full Cockpit Upgrade](https://service.airteam.eu/en/glass-cockpit) and the [Request](https://service.airteam.eu/en/request) form. If Google Ads only has a Purchase conversion, Search for Kunovice installs will optimise for headset checkouts.
 
 You do not get GTM access. Spec it as if you were handing the sheet to whoever has the container.
 
