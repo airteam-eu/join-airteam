@@ -46,9 +46,22 @@ Použijte, co vám sedí, včetně AI. Chceme vidět **systém**: pravidla, prom
 
 Citlivé texty u nás schvaluje **Marketing Manager**. Od vás stačí návrh a krátká poznámka, co byste ještě poslali ke kontrole.
 
-## Veřejné podklady
+## Veřejné weby skupiny
 
-Opírejte se o [airteam.eu](https://www.airteam.eu). Nehádejte interní rozpočty, účty ani čísla z CRM.
+Můžete (a máte) se opřít o všechny veřejné weby holdingu — nejen e-shop. Tři firmy, tři weby:
+
+| Firma | Co tam je | Web |
+|-------|-----------|-----|
+| AIR TEAM, s.r.o. (ATM) | Díly, e-shop, vybavení pro piloty | [airteam.eu](https://www.airteam.eu/) |
+| AIR TEAM service, s.r.o. (ATS) | Údržba, opravy, zástavby avioniky | [service.airteam.eu](https://service.airteam.eu/en/) |
+| AIR TEAM intel, s.r.o. (ATI) | Projekty pro vládu, obranu a ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
+
+K tomu ještě:
+
+- [hr.airteam.eu](https://hr.airteam.eu/) — kariéra (ne produkt)
+- [bose.airteam.eu](https://bose.airteam.eu/) — opravy sluchátek Bose
+
+Nehádejte interní rozpočty, účty ani čísla z CRM. Co není na těchto webech, nechte být.
 
 ## Otázky
 

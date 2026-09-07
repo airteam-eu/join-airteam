@@ -23,7 +23,7 @@ Pak navrhněte **2 návaznosti** (ne deset e-mailů):
 - **A — soukromý / koncový zákazník:** poptávka byla, obchod se neuzavřel
 - **B — partner / MRO:** totéž
 
-U každé: čím to spustíte, nanejvýš **3 kroky**, co nabídnout dál (produkt vs. servis podle veřejné nabídky na [airteam.eu](https://www.airteam.eu)), kdy to předat člověku.
+U každé: čím to spustíte, nanejvýš **3 kroky**, co nabídnout dál (produkt vs. servis vs. jiná firma skupiny — podle [veřejných webů](../README.md#veřejné-weby-skupiny)), kdy to předat člověku.
 
 ## Co odevzdat
 

@@ -17,7 +17,7 @@ Postavte generátor — prompt, Cursor skill, nebo krátký skript. Vstup:
 
 - typ zákazníka (soukromý pilot / partner-MRO)
 - fáze (první kontakt / obchod se neuzavřel)
-- **jeden** veřejný produkt nebo kategorie z [airteam.eu](https://www.airteam.eu)
+- **jeden** veřejný produkt, služba nebo kategorie z [webů skupiny](../README.md#veřejné-weby-skupiny)
 
 Výstup:
 

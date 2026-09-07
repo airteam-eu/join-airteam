@@ -11,7 +11,7 @@ Z webu a e-shopu k nám chodí poptávky na avioniku a vybavení kokpitu (Smart 
 
 Obchod potřebuje vědět, koho dostal. Levný klik, který nikdo nevezme, je ztráta.
 
-Část provozu z vyhledávání je šum: sportovní Garmin (hodinky), nabídky práce u aerolinek, hračky a drony mimo náš sortiment. Podklady: [fixtures/noise-vs-intent.md](./fixtures/noise-vs-intent.md). Katalog: [airteam.eu](https://www.airteam.eu).
+Část provozu z vyhledávání je šum: sportovní Garmin (hodinky), nabídky práce u aerolinek, hračky a drony mimo náš sortiment. Podklady: [fixtures/noise-vs-intent.md](./fixtures/noise-vs-intent.md). Veřejné weby skupiny jsou v [README](../README.md#veřejné-weby-skupiny) — e-shop, servis i intel.
 
 ## Úkol
 
