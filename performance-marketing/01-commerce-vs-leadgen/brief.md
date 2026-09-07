@@ -16,7 +16,7 @@ A Performance Max campaign that treats a GTN Xi install enquiry as a shop checko
 
 Read the live pages. Use the price you see. Do not invent list prices, stock figures, or STC status.
 
-Group websites (e-shop, service, intel, Bose repair): see the [main README](../README.md#public-group-websites).
+Group websites (e-shop, service, intel, Bose repair): see the [root README](../../README.md#public-group-websites).
 
 ## Task
 
