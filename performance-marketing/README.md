@@ -1,39 +1,37 @@
 # Performance Marketing Specialist
 
-AIR TEAM is an aviation company in Veverská Bítýška, Czech Republic. We have two customer-facing businesses that must not be mixed in advertising:
+This is a take-home, not a CV screen. We do not filter on years of experience. We filter on whether you can keep two businesses apart in ads, measurement, and HubSpot — and whether you work with AI as a daily tool.
 
-1. **The shop** ([airteam.eu](https://www.airteam.eu)) — boxed avionics and pilot gear. A customer can buy, for example, a Bose aviation headset and check out.
+## The problem
+
+AIR TEAM is an aviation company in Veverská Bítýška, Czech Republic. Two customer-facing businesses must not share one Google Ads goal:
+
+1. **The shop** ([airteam.eu](https://www.airteam.eu)) — boxed avionics and pilot gear. Someone can buy a Bose aviation headset and check out.
 2. **The service workshop** ([airteam.services](https://airteam.services/) / [service.airteam.eu](https://service.airteam.eu/en/)) — in Kunovice we install and certify avionics in the aircraft (EASA Part-145). That is a quote and a project, not an add-to-cart.
 
-If Google Ads treats an install request like a headset purchase, we waste budget and sales get the wrong people.
-
-**You report directly to Marketing Manager Pavlína.** She sets marketing priorities, brand language, and the budget frame. You run the Google Ads accounts and the HubSpot work **after someone clicks**: you score the contact, put them in a category, and pass them to sales with a suggested next step — including when they did not buy.
+If Google treats an install request like a headset purchase, we waste budget and sales get the wrong people.
 
 Live sites for the whole group: [root README](../README.md#public-group-websites).
 
-## Who you work with
+## The job
 
-| Person / team | Their job | Your job with them |
-|---------------|-----------|-------------------|
-| **Marketing Manager Pavlína** | What we say as a brand, what we spend, what comes first | You run PPC and HubSpot; you bring numbers and a recommendation |
-| **Sales** | Talk to the customer and close the deal | You send a scored enquiry they can pick up; you agree scoring rules with them; you put their “good / bad lead” feedback back into Ads |
-| **Product Manager** | What we sell and why it fits a given aircraft or customer | You turn that into campaigns and “what to offer next” (private pilot vs repair shop / airline) |
-| **Customer Support** | Repairs, “it broke”, tickets — not a sale | You keep those contacts out of the sales list |
-| **IT / web** | The shop, tracking tags, technical setup | You ask for landing pages and conversion tracking; you do not run the websites |
+You report to **Marketing Manager Pavlína** (priorities, brand language, budget). You run Google Ads and the HubSpot work **after the click**: score the contact, put them in a category, pass them to sales with a next step — including when they did not buy.
 
-A headset on the shop is often a purchase. A cockpit upgrade is a request for certified work. Product explains the difference. Sales tells you which form fills they will actually call. You keep those two paths separate in Google Ads, GA4, and HubSpot.
+**You own:** PPC structure and optimisation; lead scoring and routing rules (agreed with sales); “what to offer next” using product input (private pilot vs repair shop / airline); feeding sales’ good/bad-lead feedback back into Ads.
 
-## The brief
+**You do not own:** the websites or tracking implementation (ask IT); brand copy sign-off (Pavlína); closing deals (sales); repair tickets and “it broke” (customer support — those contacts stay out of the sales list).
 
-Open `performance-marketing/` in this repo (clone or ZIP from GitHub). Read `brief.md` in each task folder.
+## What to do
 
-**Task 01 is required.** Then do **either 02 or 03** — not both unless you want to. About **90 minutes** each. If measurement is your home, 01 + 02. If CRM is, 01 + 03.
+1. Open this folder (clone or ZIP). Read `brief.md` in each task you pick.
+2. **Task 01 is required.** Then do **either 02 or 03** — not both unless you want to. About **90 minutes** each. Measurement people: 01 + 02. CRM people: 01 + 03.
+3. Put files in that task’s `output/` folder (`pipeline/` or `system/` where the brief says so).
+4. Record **one video, 5–10 minutes**, covering both pieces: which conversion is primary, who owns the lead, and a live pass through your prompt or checklist.
+5. Email **lucie.kysucanova@airteam.eu**, subject `Join AIR TEAM — [your name]`. GitHub repo, Google Drive, or a zip. In the email: a link to the work and a link to the video.
 
-Put files in that task’s `output/` folder (`pipeline/` or `system/` where the brief says so). Then record **one video, 5–10 minutes**, covering both pieces: which conversion is primary, who owns the lead, and a live pass through your prompt or checklist.
+You will not get Ads or HubSpot logins. Prices and copy come from the live pages. Flag anything you would still send Pavlína before it went out.
 
-Email **lucie.kysucanova@airteam.eu**, subject `Join AIR TEAM — [your name]`. A GitHub repo, a Google Drive folder, or a zip is enough — in the email, a link to the work and a link to the video.
-
-You will not get our Ads or HubSpot logins. Prices and copy come from the live pages. Pavlína signs off sensitive language; flag what you would still send her.
+The three URLs in task 01 are fixed. Do not swap them.
 
 ## Tasks
 
@@ -42,8 +40,6 @@ You will not get our Ads or HubSpot logins. Prices and copy come from the live p
 | 01 | [Shop vs upgrade](./01-commerce-vs-leadgen/) | Always | Purchase traffic vs a quote, and what Google is allowed to optimise for |
 | 02 | [Measurement spec](./02-measurement-spec/) | Pick 02 or 03 | One event path across Ads, GA4 and HubSpot — two sites |
 | 03 | [Lead quality](./03-lead-quality-loop/) | Pick 02 or 03 | Score, route, and what never goes into a follow-up pile |
-
-The three URLs in task 01 are fixed. Do not swap them.
 
 ## On the video
 
