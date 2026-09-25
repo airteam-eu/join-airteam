@@ -7,7 +7,7 @@ This is a take-home, not a CV screen. We do not filter on years of experience. W
 AIR TEAM is an aviation company in Veverská Bítýška, Czech Republic. Two customer-facing businesses must not share one Google Ads goal:
 
 1. **The shop** ([airteam.eu](https://www.airteam.eu)) — boxed avionics and pilot gear. Someone can buy a Bose aviation headset and check out.
-2. **The service workshop** ([airteam.services](https://airteam.services/) / [service.airteam.eu](https://service.airteam.eu/en/)) — in Kunovice we install and certify avionics in the aircraft (EASA Part-145). That is a quote and a project, not an add-to-cart.
+2. **The service workshop** ([service.airteam.eu](https://service.airteam.eu/en/)) — in Kunovice we install and certify avionics in the aircraft (EASA Part-145). That is a quote and a project, not an add-to-cart.
 
 If Google treats an install request like a headset purchase, we waste budget and sales get the wrong people.
 
