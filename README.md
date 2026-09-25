@@ -22,6 +22,7 @@ Use the live sites. Do not guess budgets, account IDs, or CRM numbers.
 
 | Company | What it is | Site |
 |---------|------------|------|
+| AIR TEAM group | Holding site: shop, service, engineering, intel | [live.airteam.eu](https://live.airteam.eu/) |
 | AIR TEAM, s.r.o. (ATM) | Parts, e-shop, pilot gear | [airteam.eu](https://www.airteam.eu/) |
 | AIR TEAM service, s.r.o. (ATS) | Maintenance, repairs, avionics installs | [service.airteam.eu](https://service.airteam.eu/en/) |
 | AIR TEAM intel, s.r.o. (ATI) | Government, defence, ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
