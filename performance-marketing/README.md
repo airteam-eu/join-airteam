@@ -1,6 +1,6 @@
 # Performance & Growth Marketing Specialist / Lead
 
-This is a take-home, not a CV screen. We do not filter on years of experience; we hire at specialist or lead level. You need an aviation background (you fly, or you have worked in aviation) and fluent Czech or Slovak. Beyond that, we filter on whether you can keep the businesses apart in ads, measurement and HubSpot, and whether you work with AI as a daily production tool that you check rather than trust.
+This is a take-home, not a CV screen. We do not filter on years of experience; we hire at specialist or lead level. You need an aviation background (you fly, or you have worked in aviation); Czech or Slovak helps. Beyond that, we filter on whether you can keep the businesses apart in ads, measurement and HubSpot, and whether you work with AI as a daily production tool that you check rather than trust.
 
 ## The problem
 
