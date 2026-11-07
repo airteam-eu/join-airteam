@@ -10,7 +10,7 @@ AIR TEAM is an aviation group in Veverská Bítýška, Czech Republic: parts and
 
 | Role | Folder |
 |------|--------|
-| Performance & Growth Marketing Specialist | [performance-marketing/](./performance-marketing/) |
+| Performance & Growth Marketing Specialist / Lead | [performance-marketing/](./performance-marketing/) |
 
 ## Sending it in
 
