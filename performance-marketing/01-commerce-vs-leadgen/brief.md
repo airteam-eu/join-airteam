@@ -4,15 +4,15 @@
 
 ## Context
 
-AIR TEAM sells boxed avionics and headsets on [airteam.eu](https://www.airteam.eu). AIR TEAM Service installs and certifies upgrades in Kunovice ([Full Cockpit Upgrade](https://service.airteam.eu/en/glass-cockpit)). Same brand, two P&Ls.
+AIR TEAM sells boxed avionics and headsets on [shop.airteam.eu](https://shop.airteam.eu). AIR TEAM Service installs and certifies upgrades in Kunovice ([Avionics upgrades](https://www.airteam.eu/service/avionics/)). Same brand, two P&Ls.
 
 A Performance Max campaign that treats a GTN Xi install enquiry as a shop checkout will burn budget and annoy the crew. A Search campaign that sells a Bose A30 like a QuietComfort will rank for the wrong people.
 
 ## Use these three URLs (do not swap them)
 
-1. [Bose A30 aviation headset (GA plug)](https://www.airteam.eu/p/bose-a30-headset-anr) — product page, add to cart.
-2. [Garmin GDU 116B AXIS 11.6" display](https://www.airteam.eu/p/gdu-116b) — unit for sale, and the page also offers installation. That split is the point.
-3. [Full Cockpit Upgrade](https://service.airteam.eu/en/glass-cockpit) — quote / request, Part-145 work. Form: [Request](https://service.airteam.eu/en/request).
+1. [Bose A30 aviation headset (GA plug)](https://shop.airteam.eu/products/bose-a30) — product page, add to cart.
+2. [Garmin GDU 116B AXIS 11.6" display](https://shop.airteam.eu/products/gdu-116b) — unit for sale, and the page also offers installation. That split is the point.
+3. [Avionics upgrades](https://www.airteam.eu/service/avionics/) — quote / request, Part-145 work. Form: [Request a quote](https://www.airteam.eu/contact/?division=service&topic=avionics).
 
 Read the live pages. Use the price you see. Do not invent list prices, stock figures, or STC status.
 

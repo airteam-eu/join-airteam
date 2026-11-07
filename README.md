@@ -10,7 +10,7 @@ AIR TEAM is an aviation group in Veverská Bítýška, Czech Republic: parts and
 
 | Role | Folder |
 |------|--------|
-| Performance Marketing Specialist | [performance-marketing/](./performance-marketing/) |
+| Performance & Growth Marketing Specialist | [performance-marketing/](./performance-marketing/) |
 
 ## Sending it in
 
@@ -22,11 +22,12 @@ Use the live sites. Do not guess budgets, account IDs, or CRM numbers.
 
 | Company | What it is | Site |
 |---------|------------|------|
-| AIR TEAM group | Holding site: shop, service, engineering, intel | [live.airteam.eu](https://live.airteam.eu/) |
-| AIR TEAM, s.r.o. (ATM) | Parts, e-shop, pilot gear | [airteam.eu](https://www.airteam.eu/) |
-| AIR TEAM service, s.r.o. (ATS) | Maintenance, repairs, avionics installs | [service.airteam.eu](https://service.airteam.eu/en/) |
-| AIR TEAM intel, s.r.o. (ATI) | Government, defence, ISR | [intel.airteam.eu](https://intel.airteam.eu/) |
-| Bose headset repairs | Warranty and out-of-warranty repairs | [bose.airteam.eu](https://bose.airteam.eu/) |
+| AIR TEAM group | Group site: service, engineering, defence, careers | [www.airteam.eu](https://www.airteam.eu/) |
+| AIR TEAM, s.r.o. (ATM) | Parts, e-shop, pilot gear | [shop.airteam.eu](https://shop.airteam.eu/) |
+| AIR TEAM service, s.r.o. (ATS) | Maintenance and avionics installs | [www.airteam.eu/service/](https://www.airteam.eu/service/) |
+| AIR TEAM service, s.r.o. (ATS) | Service shop: headset repair, ELT service, avionics testing | [service.airteam.eu](https://service.airteam.eu/) |
+| AIR TEAM intel, s.r.o. (ATI) | Government, defence, ISR | [www.airteam.eu/intel/](https://www.airteam.eu/intel/) |
+| Bose headset repairs | Warranty and out-of-warranty repairs | [service.airteam.eu](https://service.airteam.eu/products/bose-headset-repair) |
 
 ## Write to us
 
